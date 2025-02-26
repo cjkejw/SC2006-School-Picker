@@ -57,7 +57,6 @@ Our **School Picker** application provides:
 ---
 
 ## 📂 Project Structure
-```plaintext
 SC2006-School-Picker/
 │── Deliverables/                      # Project documents and diagrams
 │   ├── Combine Class Diagram.png
