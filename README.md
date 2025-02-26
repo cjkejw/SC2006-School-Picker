@@ -58,10 +58,12 @@ Our **School Picker** application provides:
 ---
 
 ## 📑 Deliverables & Software Design Documents
-- 📌 **[System Architecture](./Deliverables/System%20Architecture.png)**
-- 📌 **[Class & Entity Diagrams](./Deliverables/Entity%20Class%20diagram.png)**
-- 📌 **[Sequence Diagrams & Test Cases](./Deliverables/Sequence%20Diagrams%20and%20Test%20Cases.pdf)**
 - 📌 **[Software Requirements Specification (SRS)](./Deliverables/Software%20Requirements%20Specification.pdf)**
+- - 📌 **[Sequence Diagrams & Test Cases](./Deliverables/Sequence%20Diagrams%20and%20Test%20Cases.pdf)**
+- 📌 **[System Architecture](./Deliverables/System%20Architecture.png)**
+- 📌 **[Entity Class Diagrams](./Deliverables/Entity%20Class%20diagram.png)**
+- 📌 **[Key Boundary and Control Classes](./Deliverables/key%20boundary%20and%20control%20classes.png)**
+- 📌 **[Combine Class Diagram](./Deliverables/Combine%20Class%20Diagram.png)**
 
 ---
 
