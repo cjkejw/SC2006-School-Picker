@@ -89,7 +89,7 @@ Our **School Picker** application provides:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Code Repository
 - Refer to: https://github.com/cjkejw/SC2006_T30_Code_New
 
 ## 🔮 Future Implementations
