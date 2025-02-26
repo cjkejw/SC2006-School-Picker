@@ -37,7 +37,7 @@ Our **School Picker** application provides:
   - Comment and report inappropriate posts.
 - 📊 **Profile Builder**:
   - Select preferred criteria.
-  - Receive AI-based school recommendations.
+  - Receive school recommendations.
 
 ### 🛠 **Admin Panel**
 - 🚩 **Moderation**: Manage flagged content.
