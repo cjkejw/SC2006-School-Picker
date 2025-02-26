@@ -1,7 +1,7 @@
 # 🏫 SC2006 School Picker
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-green)
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20TypeScript%20%7C%20Figma-blue)
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20TypeScript%20%7C%20ASP.NET%20%7C%20PostgreSQL%20%7C%20CSS-blue)
 
 Code at: https://github.com/cjkejw/SC2006_T30_Code_New
 
@@ -48,8 +48,10 @@ Our **School Picker** application provides:
 ## 🏗️ Tech Stack
 | **Category**  | **Technology**  |
 |--------------|----------------|
-| 💻 Frontend  | React, TypeScript |
+| 💻 Frontend  | React, TypeScript, CSS |
 | 🎨 UI/UX  | Figma  |
+| 🔧 Backend  | ASP.NET (C#) |
+| 🗄️ Database | PostgreSQL |
 | 🔌 APIs Used  | MOE School Info, MOE Programmes, Subjects Offered, CCAs |
 
 ---
