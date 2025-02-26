@@ -8,7 +8,7 @@ Code at: https://github.com/cjkejw/SC2006_T30_Code_New
 ## 📌 Overview
 SC2006 School Picker is a **web-based application** designed to assist parents and students in finding suitable schools based on various criteria. This project was developed as part of the **SC2006 Software Engineering** module at NTU.
 
-### 🚀 Problem Statement
+### Problem Statement
 Parents and students often struggle to find the right school due to:
 - Limited and scattered information.
 - Lack of **comparability features**.
@@ -28,20 +28,20 @@ Our **School Picker** application provides:
 ---
 
 ## 🏗️ Features
-### 🏫 **Users**
-- 🔍 **Search for schools** via text input.
-- 🎛️ **Filter schools** based on preferences.
-- ⚖️ **Compare multiple schools** side by side.
-- 💬 **Forum Integration**:
+### **Users**
+- **Search for schools** via text input.
+- **Filter schools** based on preferences.
+- **Compare multiple schools** side by side.
+- **Forum Integration**:
   - Browse, create, edit, and delete posts.
   - Comment and report inappropriate posts.
-- 📊 **Profile Builder**:
+- **Profile Builder**:
   - Select preferred criteria.
   - Receive school recommendations.
 
-### 🛠 **Admin Panel**
-- 🚩 **Moderation**: Manage flagged content.
-- 🛑 **Post & Comment Control**: Remove inappropriate posts or comments.
+### **Admin Panel**
+- **Moderation**: Manage flagged content.
+- **Post & Comment Control**: Remove inappropriate posts or comments.
 
 ---
 
@@ -58,12 +58,12 @@ Our **School Picker** application provides:
 ---
 
 ## 📑 Deliverables & Software Design Documents
-- 📌 **[Software Requirements Specification (SRS)](./Deliverables/Software%20Requirements%20Specification.pdf)**
-- - 📌 **[Sequence Diagrams & Test Cases](./Deliverables/Sequence%20Diagrams%20and%20Test%20Cases.pdf)**
-- 📌 **[System Architecture](./Deliverables/System%20Architecture.png)**
-- 📌 **[Entity Class Diagrams](./Deliverables/Entity%20Class%20diagram.png)**
-- 📌 **[Key Boundary and Control Classes](./Deliverables/key%20boundary%20and%20control%20classes.png)**
-- 📌 **[Combine Class Diagram](./Deliverables/Combine%20Class%20Diagram.png)**
+- **[Software Requirements Specification (SRS)](./Deliverables/Software%20Requirements%20Specification.pdf)**
+- **[Sequence Diagrams & Test Cases](./Deliverables/Sequence%20Diagrams%20and%20Test%20Cases.pdf)**
+- **[System Architecture](./Deliverables/System%20Architecture.png)**
+- **[Entity Class Diagrams](./Deliverables/Entity%20Class%20diagram.png)**
+- **[Key Boundary and Control Classes](./Deliverables/key%20boundary%20and%20control%20classes.png)**
+- **[Combine Class Diagram](./Deliverables/Combine%20Class%20Diagram.png)**
 
 ---
 
@@ -77,7 +77,7 @@ Our **School Picker** application provides:
 
 ---
 
-## 🔎 Testing Strategy
+## Testing Strategy
 ### ⚫ Black Box Testing
 - **Sign-Up & Sign-In Tests**:
   - Valid & invalid input testing.
@@ -91,15 +91,15 @@ Our **School Picker** application provides:
 
 ---
 
-## 🚀 Code Repository
+## Code Repository
 - Refer to: https://github.com/cjkejw/SC2006_T30_Code_New
 
-## 🔮 Future Implementations
+## Future Implementations
 
-- 🔐 **SingPass Login** for authentication.
-- 🏛 **Support for tertiary education** institutions.
-- 🌍 **Internationalization** (support for multiple languages).
-- 🔧 **More admin features**, including appeals for removed posts.
+- **SingPass Login** for authentication.
+- **Support for tertiary education** institutions.
+- **Internationalization** (support for multiple languages).
+- **More admin features**, including appeals for removed posts.
 
 ---
 
