@@ -54,22 +54,6 @@ Our **School Picker** application provides:
 | 🗄️ Database | PostgreSQL |
 | 🔌 APIs Used  | MOE School Info, MOE Programmes, Subjects Offered, CCAs |
 
----
-
-## 📂 Project Structure
-SC2006-School-Picker/
-│── Deliverables/                      # Project documents and diagrams
-│   ├── Combine Class Diagram.png
-│   ├── Entity Class Diagram.png
-│   ├── Sequence Diagrams and Test Cases.pdf
-│   ├── Software Requirements Specification.pdf
-│   ├── System Architecture.png
-│   ├── Key Boundary and Control Classes.png
-│── src/                               # Source code (To be added)
-│── public/                            # Static assets (if any)
-│── Demo Video.mp4                     # Project demonstration video
-│── README.md                          # Project documentation
-
 
 ---
 
