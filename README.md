@@ -101,7 +101,7 @@ Our **School Picker** application provides:
 
 ---
 
-## 👨‍💻 Contributors
+## 👩‍💻 Contributors
 
 - **[Wang Shi Ying]** - Team Leader, Frontend Developer, UI Designer
 - **[Yong Kiong Lu]** - Backend Developer
